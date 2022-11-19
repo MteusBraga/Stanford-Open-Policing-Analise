@@ -1,5 +1,7 @@
 # Stanford Open Policing Analise
- Analise de dados utilizando Python e as bibliotecas; Pandas, Numpy e Matplotlib
+Dados oficiais de pesquisas da Universidade de Stanford
+
+Analise de dados utilizando Python e as bibliotecas; Pandas, Numpy e Matplotlib
  
  ---
 Ilustrações
